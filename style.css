@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Carter+One&family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+  margin: 0;
+  background: linear-gradient(to top, #CCC, #fff);
+  min-height: 100vh;
+}
+
+h1{
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display: block;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 30px;
+  user-select: none;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
